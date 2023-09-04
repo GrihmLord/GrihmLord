@@ -12,17 +12,19 @@ I'm @GrihmLord, and I have a passion for Computer Science. Welcome to my GitHub 
 - My repositories cover a diverse range of topics:
   - **Web Development**: Explore my web projects built with HTML, CSS, JavaScript, and various frameworks.
   - **Machine Learning**: Discover my experiments in data analysis, machine learning, and artificial intelligence.
+  - **Blockchain and Bitcoin**: I'm deeply passionate about the world of blockchain and Bitcoin. You'll find projects and research related to these technologies here.
+  - **Large Language Models (LLM)**: I'm fascinated by the capabilities of Large Language Models like GPT-3 and GPT-4. I actively explore their applications and engage in prompt engineering.
   - **Coding Challenges**: Solve coding puzzles and challenges that I've tackled from platforms like LeetCode and HackerRank.
   - **Open Source Contributions**: Check out my contributions to open source projects and the tech community.
 - I'm committed to sharing my knowledge with the community and helping others learn and grow in the world of technology.
 
 ## My Goals
-- Continuously expand my skill set and explore new technologies.
-- Contribute to meaningful open source projects that make a positive impact.
-- Collaborate with like-minded individuals on exciting and innovative projects.
-- Learn from the global tech community and share insights and experiences.
+- Continuously expand my skill set and explore new technologies, with a special focus on blockchain, Bitcoin, and Large Language Models.
+- Contribute to meaningful open source projects that make a positive impact on the tech and cryptocurrency communities.
+- Collaborate with like-minded individuals on exciting and innovative projects, including blockchain applications and LLM-driven projects.
+- Learn from the global tech and blockchain communities and share insights and experiences.
 
-Feel free to explore my repositories, connect with me if you have questions or ideas, and join me on this incredible journey of learning and innovation. Let's make technology more accessible and exciting for everyone!
+Feel free to explore my repositories, connect with me if you have questions or ideas, and join me on this incredible journey of learning, innovation, and exploration in the realms of blockchain technology and Large Language Models. Let's make technology more accessible and exciting for everyone!
 
 <!---
 GrihmLord/GrihmLord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
