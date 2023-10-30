@@ -1,4 +1,4 @@
-# Welcome
+# Welcome.
 
 ## Introduction
 I am a dedicated professional specializing in Computer Science. My GitHub profile serves as a nexus for technological innovation and cutting-edge research.
