@@ -1,4 +1,9 @@
 <h1 align="center">Grihm</h1>
+
+<p align="center">
+  <strong><em>Engineering at the intersection of trust, intelligence, and scale.</em></strong>
+</p>
+
 <p align="center">
   <em>Software Engineer · Founder · Cryptography, Security & Machine Learning</em>
 </p>
@@ -6,24 +11,25 @@
 <p align="center">
   <a href="https://github.com/GrihmLord"><img src="https://img.shields.io/github/followers/GrihmLord?label=Follow&style=social" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=GrihmLord&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat-square" alt="Open to collaboration"/>
 </p>
 
 ---
 
-## About
+## Profile
 
-Engineer and founder working at the intersection of **applied machine learning, cryptography, and decentralized systems**. Active across full-stack engineering, ML research, applied cryptography, blockchain infrastructure, and offensive security, with a strong bias toward shipping production-grade systems.
+Software engineer and founder building production systems where **applied cryptography, machine learning, and security** intersect. Background spans full-stack engineering, ML research, applied cryptography, blockchain infrastructure, and offensive security — with a consistent bias toward systems that ship, scale, and survive adversaries.
 
-Current focus: LLM tooling, agentic systems, and security automation.
+> Cryptography hardens it. Intelligence sharpens it. Engineering ships it.
 
-## Focus Areas
+## Domains
 
-- **Machine Learning & LLMs** — applied research, agentic workflows, evaluation pipelines
-- **Cryptography** — applied cryptography, zero-knowledge proofs, secure protocol design
-- **Security** — OpSec, penetration testing, threat modeling, secure-by-default architecture
-- **Blockchain & Web3** — protocol research, smart contracts, on-chain analytics
-- **Full-Stack Engineering** — distributed systems, APIs, modern web stacks
-- **Open Source** — contributions to tooling that raises the floor for the broader ecosystem
+- **Machine Learning & LLMs** — applied research, agentic systems, evaluation pipelines, model tooling
+- **Applied Cryptography** — zero-knowledge proofs, secure protocol design, key management, end-to-end systems
+- **Security Engineering** — OpSec, penetration testing, threat modeling, secure-by-default architecture
+- **Blockchain & Web3** — protocol research, smart contract development, on-chain analytics
+- **Distributed Systems** — APIs, infrastructure, modern web stacks at production scale
+- **Open Source** — contributions to tooling that raises the floor for the broader engineering community
 
 ## Tech Stack
 
@@ -33,6 +39,7 @@ Current focus: LLM tooling, agentic systems, and security automation.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 <p>
@@ -62,13 +69,24 @@ Current focus: LLM tooling, agentic systems, and security automation.
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-## Current Work
+## Selected Work
 
-- Agentic LLM systems and evaluation harnesses
-- Zero-knowledge proofs and applied cryptographic protocols
-- Production tooling for security automation
+- **PRJCT LAZRUS** — _founder-led venture; details available on request_
+- **OTM** — _active build; details available on request_
+- Independent client engineering across security and ML
+- Ongoing applied cryptography and agentic systems research
+
+## Current Focus
+
+- Agentic LLM systems and rigorous evaluation harnesses
+- Zero-knowledge proofs and applied cryptographic protocol design
+- Production-grade tooling for security automation
 - Selective collaboration on high-impact ML, cryptography, security, and Web3 initiatives
 
 ## Contact
 
-Open to collaboration, research partnerships, and serious engineering work. Inquiries via GitHub.
+Open to research partnerships, technical collaborations, and serious engineering work. Inquiries via GitHub.
+
+---
+
+<p align="center"><sub><em>Built deliberately. Hardened by design. Shipped to last.</em></sub></p>
