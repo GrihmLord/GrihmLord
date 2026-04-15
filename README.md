@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Grihm 👋</h1>
+<h1 align="center">Grihm</h1>
 <p align="center">
-  <em>Software engineer · Startup founder · Cryptography, security & ML researcher</em>
+  <em>Software Engineer · Founder · Cryptography, Security & Machine Learning</em>
 </p>
 
 <p align="center">
@@ -12,18 +12,18 @@
 
 ## About
 
-I build at the intersection of **applied ML, cryptography, and decentralized systems**. My work spans full-stack engineering, machine learning research, applied cryptography, blockchain infrastructure, and offensive security — with a strong bias toward shipping production-grade systems over prototypes.
+Engineer and founder working at the intersection of **applied machine learning, cryptography, and decentralized systems**. Active across full-stack engineering, ML research, applied cryptography, blockchain infrastructure, and offensive security, with a strong bias toward shipping production-grade systems.
 
-Currently focused on LLM tooling, agentic systems, and security automation.
+Current focus: LLM tooling, agentic systems, and security automation.
 
 ## Focus Areas
 
 - **Machine Learning & LLMs** — applied research, agentic workflows, evaluation pipelines
-- **Cryptography** — applied crypto, zero-knowledge proofs, secure protocol design
+- **Cryptography** — applied cryptography, zero-knowledge proofs, secure protocol design
 - **Security** — OpSec, penetration testing, threat modeling, secure-by-default architecture
 - **Blockchain & Web3** — protocol research, smart contracts, on-chain analytics
 - **Full-Stack Engineering** — distributed systems, APIs, modern web stacks
-- **Open Source** — contributing to tooling that raises the floor for everyone
+- **Open Source** — contributions to tooling that raises the floor for the broader ecosystem
 
 ## Tech Stack
 
@@ -62,17 +62,13 @@ Currently focused on LLM tooling, agentic systems, and security automation.
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-## Currently
+## Current Work
 
-- Researching agentic LLM systems and evaluation harnesses
-- Exploring zero-knowledge proofs and applied cryptographic protocols
-- Building production tooling for security automation
-- Open to collaboration on high-impact ML, cryptography, security, and Web3 projects
+- Agentic LLM systems and evaluation harnesses
+- Zero-knowledge proofs and applied cryptographic protocols
+- Production tooling for security automation
+- Selective collaboration on high-impact ML, cryptography, security, and Web3 initiatives
 
-## Connect
+## Contact
 
-Open to collaboration, research partnerships, and serious engineering work. Reach out via GitHub.
-
----
-
-<p align="center"><sub>"Build deliberately. Ship relentlessly."</sub></p>
+Open to collaboration, research partnerships, and serious engineering work. Inquiries via GitHub.
