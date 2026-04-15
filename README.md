@@ -69,12 +69,13 @@ Software engineer and founder building production systems where **applied crypto
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-## Selected Work
+## Engagements
 
-- **PRJCT LAZRUS** — _founder-led venture; details available on request_
-- **OTM** — _active build; details available on request_
-- Independent client engineering across security and ML
-- Ongoing applied cryptography and agentic systems research
+- Founder-led ventures in cryptography, security, and applied intelligence
+- Independent engineering and advisory across security and machine learning
+- Ongoing research in applied cryptography and agentic systems
+
+_Project details available under appropriate engagement._
 
 ## Current Focus
 
